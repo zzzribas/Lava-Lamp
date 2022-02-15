@@ -25,6 +25,9 @@ https://themezer.net/packs/Vertical-Red-Lava-Lamp-370
 
 https://themezer.net/packs/Vertical-Blue-Lava-Lamp-371
 
+And the PSDs here:
+https://github.com/zzzribas/Lava-Lamp/blob/main/ZhiLavaLampPSDs.zip
+
 Thank you Slluxx for helping me with the Vertical Icons and Exelix for helping me with some layout problems.
 
 And thank you u/porcorousseauu for the amazing mockup.
