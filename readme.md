@@ -19,13 +19,14 @@ For this theme you need a few things:
 4. Font is Coolvetica
 5. A bit of patience 😁
 
-You can find both theme packs here:
+You can find All theme packs here:
 
-https://themezer.net/packs/Vertical-Red-Lava-Lamp-370
+1. Vertical Red - https://themezer.net/packs/Vertical-Red-Lava-Lamp-370
+2. Vertical Blue - https://themezer.net/packs/Vertical-Blue-Lava-Lamp-371
+3. 1:1 Ratio Blue - https://themezer.net/packs/Lava-Lamp-Blue-373 (Only HomeLayout and AllApps)
+4. 1:1 Ratio Red - https://themezer.net/packs/Lava-Lamp-Red-372 (Only HomeLayout and AllApps)
 
-https://themezer.net/packs/Vertical-Blue-Lava-Lamp-371
-
-And the PSDs here:
+* And the PSDs here:
 https://github.com/zzzribas/Lava-Lamp/blob/main/ZhiLavaLampPSDs.zip
 
 Thank you Slluxx for helping me with the Vertical Icons and Exelix for helping me with some layout problems.
