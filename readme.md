@@ -8,6 +8,7 @@ After a few weeks of trial and error and a lot of errors, i think i got somethin
 
 ![LavaLampBlue](https://raw.githubusercontent.com/zzzribas/Lava-Lamp/main/Mockups/MockupBlueV.jpg)
 ![LavaLampRed](https://raw.githubusercontent.com/zzzribas/Lava-Lamp/main/Mockups/MockupRedV.jpg)
+![LavaLampDark](https://github.com/zzzribas/Lava-Lamp/blob/main/Mockups/MockupsDouble.jpg)
 
 
 Everything was resized and not scaled so it gets the smooth and clean round look.
