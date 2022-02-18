@@ -20,12 +20,16 @@ For this theme you need a few things:
 4. Font is Coolvetica
 5. A bit of patience 😁
 
-You can find All theme packs here:
+You can find All theme packs here in the github and in the themezer:
 
 1. Vertical Red - https://themezer.net/packs/Vertical-Red-Lava-Lamp-370
 2. Vertical Blue - https://themezer.net/packs/Vertical-Blue-Lava-Lamp-371
 3. 1:1 Ratio Blue - https://themezer.net/packs/Lava-Lamp-Blue-373 (Only HomeLayout and AllApps)
 4. 1:1 Ratio Red - https://themezer.net/packs/Lava-Lamp-Red-372 (Only HomeLayout and AllApps)
+5. Vertical DarkMode - https://themezer.net/packs/Vertical-Dark-Lava-Lamp-37a
+6. DarkMode - https://themezer.net/packs/Vertical-Dark-Lava-Lamp-37a
+7. Vertical DarkMode BannedHome - https://themezer.net/themes/homemenu/Vertical-Lava-Lamp-Dark-BannedHome-19a8
+8. DarkMode Banned Home - https://themezer.net/themes/homemenu/Lava-Lamp-Dark-BannedHome-19a9
 
 * And the PSDs here:
 https://github.com/zzzribas/Lava-Lamp/blob/main/ZhiLavaLampPSDs.zip
