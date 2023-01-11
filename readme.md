@@ -1,4 +1,18 @@
 #  Lava Lamp NXTHEME Files
+
+------ NEEDS UPDATE ------
+on Progress.
+
+
+Update version Checklist:
+- Update to 15.X so all the "folders" work. Using the good work of Soda.
+- Edit all the possible editable colors from Common and AllApps to match the astethic of the theme. Thanks Capybara.
+- Remove the need for PSDS; (Everything on the screen including panels, shadows etc. will be all rendered in Switch via the current BLFYT and not via JPEG.)
+- Remove the Non-Banned versions. (After the feedback i got, i realised almost everyone using the theme wasnt using them, because go figure, they wouldnt need to access the online resources...)
+- Add a few minor animations.
+
+--------------------------
+
 Hey Lads, sometime ago i saw this post on the r/nintendoswitch:
 https://www.reddit.com/r/NintendoSwitch/comments/pqpdaa/a_couple_of_weeks_ago_i_shared_my_redesign_of_the/
 
